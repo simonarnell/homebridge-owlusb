@@ -1,6 +1,6 @@
 {
   "name": "homebridge-owlusb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Homebridge plugin for collecting energy consumption data and displaying in Homekit from Owl +USB CM160 devices",
   "main": "dist/accessory.js",
   "scripts": {
