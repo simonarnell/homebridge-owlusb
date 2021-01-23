@@ -69,7 +69,7 @@ class OwlUSBPlugin implements AccessoryPlugin {
       })
     )
     .on(CharacteristicEventTypes.GET, (callback: CharacteristicGetCallback) => {
-      callback(undefined, this.energyConsumption.amps * 100);
+      callback(undefined, this.energyConsumption.amps);
     })
     
 
@@ -81,7 +81,7 @@ class OwlUSBPlugin implements AccessoryPlugin {
       })
     )
     .on(CharacteristicEventTypes.GET, (callback: CharacteristicGetCallback) => {
-      callback(undefined, this.energyConsumption.watts * 10);
+      callback(undefined, this.energyConsumption.watts);
     })
 
     this.energyMeterService.addCharacteristic(
