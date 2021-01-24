@@ -1,6 +1,6 @@
 <span align="center">
 
-# Homebridge Owl+USB Plugin
+# Homebridge Owl +USB Plugin
 
 <a href="https://www.npmjs.com/package/homebridge-owlusb"><img title="npm version" src="https://badgen.net/npm/v/homebridge-owlusb" ></a>
 <a href="https://www.npmjs.com/package/homebridge-owlusb"><img title="npm downloads" src="https://badgen.net/npm/dt/homebridge-owlusb" ></a>
@@ -11,7 +11,7 @@
 
 ## About
 
-**Homebridge-owlusb** is a [homebridge](https://homebridge.io) plugin that collects energy consumption data from [Owl+USB](https://www.theowl.com/index.php/energy-monitors/standalone-monitors/owl-usb/) energy monitoring devices and publishes the collected data to the Apple [HomeKit](https://developer.apple.com/homekit/) ecosystem.
+**Homebridge-owlusb** is a [homebridge](https://homebridge.io) plugin that collects energy consumption data from [Owl +USB](https://www.theowl.com/index.php/energy-monitors/standalone-monitors/owl-usb/) energy monitoring devices and publishes the collected data to the Apple [HomeKit](https://developer.apple.com/homekit/) ecosystem.
 
 ## Prerequisities 
 
